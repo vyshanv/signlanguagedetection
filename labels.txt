@@ -1,0 +1,7 @@
+0 HI
+1 YES
+2 NO
+3 THANKS
+4 A
+5 B
+6 Class 7
